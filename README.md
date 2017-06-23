@@ -19,16 +19,12 @@ The prerequisites for running Cucumber Selenium automation test suite:
 - Install Maven
 - Add a maven dependencies to your pom
 - import plugins (i.e. cucumber-reporting)
-
-How I’ve created the test automation framework in Cucumber
- 
-In order to build the framework in Cucumber, I’ve carried out the following steps:
  
 # Feature files
  
 A Feature File is the entry point for a Cucumber test where the features are described in BDD format/style, representing the “scaffolding” for each test.
-I’ve built 4 feature files in the feature package. Each of them contains a list of scenarios (positive and negative). 
-For example, in the image below illustrates the Login Feature and all of the scenario scripts related to it.
+I’ve built feature files in the feature package. Each of them contains a list of scenarios (positive and negative). 
+For example, below it's illustrated the Login Feature:
  
 These are structured in keywords defined by Gherkin.  
 Feature: Defines what feature is being tested
@@ -52,7 +48,7 @@ More in detail, I’ve imported the statement ‘org.junit.runner.RunWith‘ in 
 Then, I’ve imported the statement ‘cucumber.api.CucumberOptions‘ in order to have access to the @CucumberOptions annotation. This annotation manages the logic under which Cucumber defines where to get a feature file and what reporting system will be used.
  
 # How to Run the Automation suite with Junit
- 
+
 Finally, select the Testrun Junit option and then all the tests will be running correctly. 
  
  

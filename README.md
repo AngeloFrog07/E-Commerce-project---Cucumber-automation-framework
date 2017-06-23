@@ -12,13 +12,13 @@ This project allows you to have a comprehensive overview on how to implement a B
 
 The prerequisites for running Cucumber Selenium automation test suite:
 
-- [Download & Install Java (jdk)](https://github.com/AngeloFrog07/E-Commerce-project---Cucumber-automation-framework/blob/master/Java%20installation.md)
-- [Download and Install Eclipse](https://github.com/AngeloFrog07/E-Commerce-project---Cucumber-automation-framework/blob/master/Eclipse%20installation.md)
-- [Download Selenium WebDriver Client](https://github.com/AngeloFrog07/E-Commerce-project---Cucumber-automation-framework/blob/master/Webdriver%20installation.md)
+- [Download & Install Java (jdk)](https://github.com/AngeloFrog07/E-Commerce-project---Cucumber-automation-framework/blob/master/README_Installations/Java%20installation.md)
+- [Download and Install Eclipse](https://github.com/AngeloFrog07/E-Commerce-project---Cucumber-automation-framework/blob/master/README_Installations/Eclipse%20installation.md)
+- [Download Selenium WebDriver Client](https://github.com/AngeloFrog07/E-Commerce-project---Cucumber-automation-framework/blob/master/README_Installations/Webdriver%20installation.md)
 - install browser drivers (i.e. chromedriver)
-- [Cucumber .jars files and Configure Eclipse](https://github.com/AngeloFrog07/E-Commerce-project---Cucumber-automation-framework/blob/master/Cucumber%20installation%20jars%20files.md)
-- [Maven and add dependencies to your pom](https://github.com/AngeloFrog07/E-Commerce-project---Cucumber-automation-framework/blob/master/Maven%20framework.md)
-- import plugins (i.e. cucumber-reporting), see [above](https://github.com/AngeloFrog07/E-Commerce-project---Cucumber-automation-framework/blob/master/Maven%20framework.md).
+- [Cucumber .jars files and Configure Eclipse](https://github.com/AngeloFrog07/E-Commerce-project---Cucumber-automation-framework/blob/master/README_Installations/Cucumber%20installation%20jars%20files.md)
+- [Maven and add dependencies to your pom](https://github.com/AngeloFrog07/E-Commerce-project---Cucumber-automation-framework/blob/master/README_Installations/Maven%20framework.md)
+- import plugins (i.e. cucumber-reporting), see [above](https://github.com/AngeloFrog07/E-Commerce-project---Cucumber-automation-framework/blob/master/README_Installations/Maven%20framework.md).
  
 # Feature files
  

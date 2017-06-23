@@ -52,7 +52,7 @@ Finally, select the Testrun Junit option and then all the tests will be running 
 
 (https://github.com/AngeloFrog07/E-Commerce-project---Cucumber-automation-framework/blob/master/images/framework_eclipse.png)
 
-[[/images/images/framework_eclipse.pn/to/image.ext|ALT TEXT]]
+[[https://github.com/AngeloFrog07/E-Commerce-project---Cucumber-automation-framework/blob/master/images/framework_eclipse.png|alt=octocat]]
  
  
  

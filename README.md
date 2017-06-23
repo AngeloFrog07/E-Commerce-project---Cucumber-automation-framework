@@ -48,7 +48,9 @@ Then, I’ve imported the statement ‘cucumber.api.CucumberOptions‘ in order 
  
 # How to Run the Automation suite with Junit
 
-Finally, select the Testrun Junit option and then all the tests will be running correctly. 
+Finally, select the Testrun Junit option and then all the tests will be running correctly as below:
+
+https://github.com/AngeloFrog07/E-Commerce-project---Cucumber-automation-framework/blob/master/images/framework_eclipse.png
  
  
  

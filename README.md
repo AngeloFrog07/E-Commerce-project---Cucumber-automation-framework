@@ -1,5 +1,6 @@
 # E-Commerce project/ Cucumber automation framework in Selenium WebDriver (Java) 
- Hi chaps, Angelo here, I've created a test framework with BDD technique in Java for a dummy Ecommerce application, click [here](http://automationpractice.com/index.php) to navigate to the website under test.
+ Hi chaps, Angelo here!
+ I've created a test framework with BDD technique in Java for a dummy Ecommerce application, click [here](http://automationpractice.com/index.php) to navigate to the website under test.
  
 # Background
 
@@ -23,13 +24,11 @@ The prerequisites for running Cucumber Selenium automation test suite:
  
 A Feature File is the entry point for a Cucumber test where the features are described in BDD format/style, representing the “scaffolding” for each test.
 I’ve built feature files in the feature package. Each of them contains a list of scenarios (positive and negative). 
-For example, below it's illustrated the Login Feature:
+For example, below it's illustrated the shopping cart test Feature:
  
-These are structured in keywords defined by Gherkin.  
-Feature: Defines what feature is being tested
-Given: States the pre-condition of the test
-And: Defines additional conditions of the test if appropriate 
-Then: States the post condition or expected result of the test.
+These are structured in keywords defined by Gherkin. 
+
+![alt text](https://github.com/AngeloFrog07/E-Commerce-project---Cucumber-automation-framework/blob/master/images/feature_image.png)
  
 # Step definitions
  
@@ -38,6 +37,8 @@ An annotation (@Given/ @When/ @Then) followed by the pattern is used to link the
  
 Based on that, I’ve created the test suite classes in the stepdefinition package. For each of them I’ve defined all the methods with Gherkin annotation (@Given/ @When/ @Then).
 Please find below an example of TestSuiteLogin.java class built with the concept of the step definition.
+
+![alt text](https://github.com/AngeloFrog07/E-Commerce-project---Cucumber-automation-framework/blob/master/images/steps_definitions.png)
  
 # Junit Testrunner class
  
@@ -46,6 +47,8 @@ I’ve created a new Class file and named it ‘TestRunner‘, by right click on
 More in detail, I’ve imported the statement ‘org.junit.runner.RunWith‘ in order to import  the @RunWith annotation from the Junit class. 
 Then, I’ve imported the statement ‘cucumber.api.CucumberOptions‘ in order to have access to the @CucumberOptions annotation. This annotation manages the logic under which Cucumber defines where to get a feature file and what reporting system will be used.
  
+![alt text](https://github.com/AngeloFrog07/E-Commerce-project---Cucumber-automation-framework/blob/master/images/testrun_class.png)
+
 # How to Run the Automation suite with Junit
 
 Finally, select the Testrun Junit option and then all the tests will be running correctly as below:

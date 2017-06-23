@@ -1,5 +1,5 @@
 # E-Commerce project/ Cucumber automation framework in Selenium WebDriver (Java) 
- Hi chaps, Angelo here, I've created a test framework with BDD technique in Java for a dummy Ecommerce application, click here to navigate to the website [coverage](http://automationpractice.com/index.php)
+ Hi chaps, Angelo here, I've created a test framework with BDD technique in Java for a dummy Ecommerce application, click [here](http://automationpractice.com/index.php)to navigate to the website.
  
 # Background
 

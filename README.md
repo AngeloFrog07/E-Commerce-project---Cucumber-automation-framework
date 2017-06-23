@@ -16,8 +16,8 @@ The prerequisites for running Cucumber Selenium automation test suite:
 - [Download Selenium WebDriver Client](https://github.com/AngeloFrog07/E-Commerce-project---Cucumber-automation-framework/blob/master/Webdriver%20installation.md)
 - install browser drivers (i.e. chromedriver)
 - [Cucumber .jars files and Configure Eclipse](https://github.com/AngeloFrog07/E-Commerce-project---Cucumber-automation-framework/blob/master/Cucumber%20installation%20jars%20files.md)
-- Maven and add dependencies to your pom
-- import plugins (i.e. cucumber-reporting)
+- [Maven and add dependencies to your pom](https://github.com/AngeloFrog07/E-Commerce-project---Cucumber-automation-framework/blob/master/Maven%20framework.md)
+- import plugins (i.e. cucumber-reporting), see [above](https://github.com/AngeloFrog07/E-Commerce-project---Cucumber-automation-framework/blob/master/Maven%20framework.md).
  
 # Feature files
  

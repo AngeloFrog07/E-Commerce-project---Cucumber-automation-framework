@@ -36,7 +36,7 @@ A Step Definition is a java method in a class with an annotation above it.
 An annotation (@Given/ @When/ @Then) followed by the pattern is used to link the Step Definition to all the matching Steps, and the code is what Cucumber will execute when it sees a Gherkin Step. 
  
 Based on that, I’ve created the test suite classes in the stepdefinition package. For each of them I’ve defined all the methods with Gherkin annotation (@Given/ @When/ @Then).
-Please find below an example of TestSuiteLogin.java class built with the concept of the step definition.
+Please find below an example of TestSuiteLBasket.java class built with the concept of the step definition.
 
 ![alt text](https://github.com/AngeloFrog07/E-Commerce-project---Cucumber-automation-framework/blob/master/images/steps_definitions.png)
  
